@@ -8,3 +8,8 @@
 	url = https://github.com/mtennekes/cols4all
 	shallow = true
 	registered = true
+[submodule "treemap"]
+	path = treemap
+	url = https://github.com/cran/treemap
+	shallow = true
+	registered = true
