@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cols4all"]
 	path = cols4all
 	url = https://github.com/mtennekes/cols4all
-	shallow = true
-	registered = true
 [submodule "treemap"]
 	path = treemap
 	url = https://github.com/cran/treemap
-	shallow = true
-	registered = true
